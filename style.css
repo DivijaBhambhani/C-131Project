@@ -1,0 +1,51 @@
+.heading
+{
+    font-size: 35px;
+    color: lightslategrey;
+    width: 100%;
+    margin: 0px;
+}
+
+#status
+{
+    font-size: 15px;
+}
+
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+
+canvas
+{
+    box-shadow: 10px 10px 10px goldenrod;
+    border-radius: 10px;
+}
+#bag{
+font-size: 30px;
+background-color: cornsilk;
+color: cadetblue;
+padding-top: 0.3%;
+padding-bottom: 0.3%;
+padding-left: 0.3%;
+padding-right: 0.3%;
+}
+#globe{
+    font-size: 30px;
+    background-color: mediumslateblue;
+    color: brown;
+    padding-top: 0.3%;
+    padding-bottom: 0.3%;
+    padding-left: 0.3%;
+    padding-right: 0.3%;
+    }
+    #chair{
+        font-size: 30px;
+        background-color: indianred;
+        color: khaki;
+        padding-top: 0.3%;
+        padding-bottom: 0.3%;
+        padding-left: 0.3%;
+        padding-right: 0.3%;
+        }
